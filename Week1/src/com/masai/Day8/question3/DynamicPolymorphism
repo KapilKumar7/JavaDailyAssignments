@@ -1,0 +1,7 @@
+Q3) Explain dynamic polymorphism ?
+
+Ans. -Dynamic Polymorphism in OOPs is the mechanism by which 
+  multiple methods can be defined with same name and
+  signature in the superclass and subclass.
+  
+  The call to an overridden method are resolved at run time.
