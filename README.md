@@ -1,1 +1,1 @@
-# Java_Week1
+# Java_Daily Assignments
